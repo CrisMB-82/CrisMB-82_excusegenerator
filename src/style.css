@@ -1,5 +1,7 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    text-align: center;
     background: white;
+    padding: 50px;
+    margin: 0;
 }
